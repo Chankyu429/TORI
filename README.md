@@ -11,3 +11,18 @@
         - > 상위 폴더
     - /
         - > 최상위 폴더
+
+#### 이미지
+*첫번째*
+
+_두번째_
+
+**세번째**
+
+__네번째__
+
+~~취소선~~
+
+![Escaoe from Tarkov Logo](./imags/타르코프_로고.avif)
+
+<img src="./imags/타르코프_로고.avif" width="200" height="100">Escaoe form Tarkov Logo</imge>
