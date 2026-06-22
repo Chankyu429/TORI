@@ -1,44 +1,37 @@
-# Readme.md
+# 큰 제목
+## 작은 제목
+### 더 작은 제목
+#### 더 더 작은 제목
 
-# CPU vs GPU
 
-## CPU란?
+#### CPU
+> 중앙처리장치
+>	> Central Processing Unit
+>	>	> Graphic Processing Unit
 
-CPU(Central Processing Unit)는 중앙처리장치로,
-컴퓨터의 전반적인 연산과 제어를 담당한다.
 
-### 특징
-- 높은 단일 코어 성능
-- 운영체제와 프로그램 제어
-- 복잡한 연산 처리
+1. Register
+1. ALU
+1. PC
+1. Register
 
----
 
-## GPU란?
+- Color
+    - Red
+    - Green
+    - Blue
+    - Alpha
+        - 0 ~ 1
+    - 0 ~ 255
+- ColorKey
+    - Style
 
-GPU(Graphics Processing Unit)는 그래픽 처리 장치로,
-대량의 병렬 연산에 특화되어 있다.
+- Color
+    - Key
+    - Style
 
-### 특징
-- 많은 코어를 사용
-- 그래픽 렌더링 담당
-- AI 및 영상 처리에 활용
+    This is normal paragraph : 
 
----
+        This is a Code block.
 
-## CPU와 GPU 비교
-
-| 항목 | CPU | GPU |
-|------|------|------|
-| 역할 | 중앙 처리 | 그래픽 처리 |
-| 코어 수 | 적음 | 많음 |
-| 연산 방식 | 순차 처리 | 병렬 처리 |
-| 주요 용도 | 프로그램 실행 | 그래픽, AI |
-
----
-
-## 결론
-
-CPU는 컴퓨터의 두뇌 역할을 하고,
-GPU는 그래픽 및 대량 연산을 담당한다.
-두 장치는 서로 협력하여 컴퓨터 성능을 구성한다.
+    end Codeb lock
