@@ -41,7 +41,4 @@ GPU(Graphics Processing Unit)는 그래픽 처리 장치로,
 
 CPU는 컴퓨터의 두뇌 역할을 하고,
 GPU는 그래픽 및 대량 연산을 담당한다.
-두 장치는 서로 협력하여 컴퓨터 성능을 구성한다.src="https://i.namu.wiki/i/Iu_8OQVc5FQk2H8Hoys69n46TAxI6mXfpRWGFlqYF0pV6KDl6aRrLdIe6kBfiTMATsB6xhKzUYaHr6g6_1QjffZ7pwaX7IX7XxX1Us9ICJkKbg7HUnQBOhErmAmNA6dXVQc-xQJyt5lxgEU4hxWTKQ.webp" width="200" height="100">Escaoe form Tarkov Logo</imge>
-
-줄 비공을 하기 위해서는  
-빈칸 세개를 넣으면 된다
+두 장치는 서로 협력하여 컴퓨터 성능을 구성한다.
