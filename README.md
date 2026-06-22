@@ -1,36 +1,47 @@
 # Readme.md
 
-- Link
-    - [마크다운 포멧](Fomat.md)
-    - [Vector3](./Mathmatics/Vector/Vector3.md)
-    - [Unity](https://unity.com/kr)
-    - [YouTube](https://www.youtube.com/watch?v=n-qBZQ3M9Rc&pp=ygUG7Yis66qF)
-- 상대경로
-    - ./
-        - > 자신의 경로
-    - ../
-        - > 상위 폴더
-    - /
-        - > 최상위 폴더
+# CPU vs GPU
 
-#### 이미지
-*첫번째*
+## CPU란?
 
-_두번째_
+CPU(Central Processing Unit)는 중앙처리장치로,
+컴퓨터의 전반적인 연산과 제어를 담당한다.
 
-**세번째**
+### 특징
+- 높은 단일 코어 성능
+- 운영체제와 프로그램 제어
+- 복잡한 연산 처리
 
-__네번째__
+---
 
-~~취소선~~
+## GPU란?
 
-![Escaoe from Tarkov Logo](./imags/타르코프_로고.avif)
+GPU(Graphics Processing Unit)는 그래픽 처리 장치로,
+대량의 병렬 연산에 특화되어 있다.
 
-<img src="./imags/타르코프_로고.avif" width="200" height="100">Escaoe form Tarkov Logo</imge>
+### 특징
+- 많은 코어를 사용
+- 그래픽 렌더링 담당
+- AI 및 영상 처리에 활용
 
-![Tarkov Logo](https://i.namu.wiki/i/Iu_8OQVc5FQk2H8Hoys69n46TAxI6mXfpRWGFlqYF0pV6KDl6aRrLdIe6kBfiTMATsB6xhKzUYaHr6g6_1QjffZ7pwaX7IX7XxX1Us9ICJkKbg7HUnQBOhErmAmNA6dXVQc-xQJyt5lxgEU4hxWTKQ.webp)
+---
 
-<img src="https://i.namu.wiki/i/Iu_8OQVc5FQk2H8Hoys69n46TAxI6mXfpRWGFlqYF0pV6KDl6aRrLdIe6kBfiTMATsB6xhKzUYaHr6g6_1QjffZ7pwaX7IX7XxX1Us9ICJkKbg7HUnQBOhErmAmNA6dXVQc-xQJyt5lxgEU4hxWTKQ.webp" width="200" height="100">Escaoe form Tarkov Logo</imge>
+## CPU와 GPU 비교
+
+| 항목 | CPU | GPU |
+|------|------|------|
+| 역할 | 중앙 처리 | 그래픽 처리 |
+| 코어 수 | 적음 | 많음 |
+| 연산 방식 | 순차 처리 | 병렬 처리 |
+| 주요 용도 | 프로그램 실행 | 그래픽, AI |
+
+---
+
+## 결론
+
+CPU는 컴퓨터의 두뇌 역할을 하고,
+GPU는 그래픽 및 대량 연산을 담당한다.
+두 장치는 서로 협력하여 컴퓨터 성능을 구성한다.src="https://i.namu.wiki/i/Iu_8OQVc5FQk2H8Hoys69n46TAxI6mXfpRWGFlqYF0pV6KDl6aRrLdIe6kBfiTMATsB6xhKzUYaHr6g6_1QjffZ7pwaX7IX7XxX1Us9ICJkKbg7HUnQBOhErmAmNA6dXVQc-xQJyt5lxgEU4hxWTKQ.webp" width="200" height="100">Escaoe form Tarkov Logo</imge>
 
 줄 비공을 하기 위해서는  
 빈칸 세개를 넣으면 된다
