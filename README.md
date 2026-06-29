@@ -1,6 +1,6 @@
 # Keyword Organization
 
-## C# 및 컴퓨터 구조 키워드
+## C# 키워드 정리
 
 - [CPU vs GPU](CPU_vs_GPU.md)
 - [Code Area](Code_Area.md)
