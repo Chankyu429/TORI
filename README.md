@@ -1,6 +1,7 @@
 # Keyword Organization
 
-## [C# 키워드 정리](Keyword_Organization)
+<details>
+<summary><b>C# 키워드 정리</b></summary>
 
 1. [CPU vs GPU](Keyword%20Organization/CPU_vs_GPU.md)
 2. [CUDA](Keyword%20Organization/DUDA.md)
@@ -11,3 +12,5 @@
 7. [Code Area](Keyword%20Organization/Code_Area.md)
 8. [Data Area](Keyword%20Organization/Data_Area.md)
 9. [Heap Area](Keyword%20Organization/Heap_Area.md)
+
+</details>
