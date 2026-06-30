@@ -1,0 +1,11 @@
+# C# 키워드 정리
+
+1. [CPU vs GPU](CPU_vs_GPU.md)
+2. [CUDA](DUDA.md)
+3. [RAM vs VRAM](RAM_VRAM.md)
+4. [Compute Shader](Compute_Shader.md)
+5. [Process](Process.md)
+6. [Process Memory Area](Process_Memory_Area.md)
+7. [Code Area](Code_Area.md)
+8. [Data Area](Data_Area.md)
+9. [Heap Area](Heap_Area.md)
