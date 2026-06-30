@@ -11,4 +11,3 @@
 - [Process Memory Area](Keyword%20Organization/Process_Memory_Area.md)
 - [RAM vs VRAM](Keyword%20Organization/RAM_VRAM.md)
 - [Heap Area](Keyword%20Organization/Heap_Area.md)
-- 
