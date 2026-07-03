@@ -11,3 +11,4 @@
 #### 9. [Heap Area](Heap_Area.md)
 #### 10. [Stack Area](Stack_Area.md)
 #### 11. [File Format](File_Format.md)
+#### 12. [JPG](JPG.md)
