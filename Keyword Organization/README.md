@@ -13,3 +13,4 @@
 #### 11. [File Format](File_Format.md)
 #### 12. [JPG](JPG.md)
 #### 13. [BMP](BMP.md)
+#### 14. [TGA](TGA,md)
