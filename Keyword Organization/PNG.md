@@ -1,6 +1,6 @@
 # PNG
 
-![PNG](./image/4294118e-72d5-4d90-b1d8-fb3748398ad1)
+![PNG](../imags/PNG.jpg)
 
 ## PNG(Portable Network Gaphics)란?
 
