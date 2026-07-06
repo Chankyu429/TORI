@@ -1,6 +1,6 @@
 # PNG
 
-![PNG](../imags/PNG.jpg)
+<img src="../imags/png.png" width="350" height="230">
 
 ## PNG(Portable Network Gaphics)란?
 
