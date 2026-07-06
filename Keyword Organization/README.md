@@ -14,3 +14,4 @@
 #### 12. [JPG](JPG.md)
 #### 13. [BMP](BMP.md)
 #### 14. [TGA](TGA.md)
+#### 15. [PNG](PNG.md)
