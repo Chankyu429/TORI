@@ -1,6 +1,6 @@
 # PNG
 
-<img src="../imags/PNG.jpg" width="350" height="230">
+<img src="../imags/PNG.jpg" width="400" height="240">
 
 ## PNG(Portable Network Gaphics)란?
 
