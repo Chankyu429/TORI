@@ -2,7 +2,7 @@
 
 ## TGA란?
 
-TGA(Truevision Graphics Adapter)는 Truevision에서 개발한 래스터(Raster) 이미지 파일 포맷이다.
+**TGA(Truevision Graphics Adapter)**는 Truevision에서 개발한 래스터(Raster) 이미지 파일 포맷이다.
 
 고품질 이미지를 저장할 수 있으며, 알파 채널(Alpha Channel)을 지원하며 게임 개발과 그래픽 디자인 분야에서 많이 사용된다.
 
