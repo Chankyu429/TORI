@@ -7,7 +7,7 @@
 > 확장자는 `.tga`를 사용한다.
 ---
 
-![TGA 이미지](../imags/TGA.jpg)
+![TGA 이미지](../imags/tga.jpg)
 
 ---
 
