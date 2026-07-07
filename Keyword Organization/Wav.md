@@ -1,5 +1,4 @@
 # WAV (Waveform Audio File Format)
-
 ## WAV란?
 ### WAV(Waveform Audio File Format)는 Microsoft와 IBM이 공동으로 개발한 디지털 오디오 파일 포맷입니다.
 
