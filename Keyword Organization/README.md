@@ -15,4 +15,4 @@
 #### 13. [BMP](BMP.md)
 #### 14. [TGA](TGA.md)
 #### 15. [PNG](PNG.md)
-#### 16. [WAV](WAV.md)
+#### 16. [WAV](Wav.md)
