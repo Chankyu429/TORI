@@ -6,7 +6,7 @@
 
 ---
 
-<img src="../imags/PNG.jpg" width="400" height="240">
+![PNG 이미지](../imags/PNG.jpg)
 
 ---
 W3C 표준으로 지정되어 있으며, 원본 이미지의 품질을 유지하면서 파일 크기를 줄일 수 있다. 특히 알파 채널(Alpha Channel)을 지원하여 투명 및 반투명 이미지를 완벽하게 표현할 수 있다.
