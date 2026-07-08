@@ -24,3 +24,4 @@
 ### 20. [C20_Structure](C20_Structure.md)
 ### 21. [C21_Structure2](C21_Structure2.md)
 ### 22. [C22_Reference](C22_Reference.md)
+### 23. [C23_Factorial](C23_Factorial.md)
