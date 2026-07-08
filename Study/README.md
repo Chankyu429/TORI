@@ -1,6 +1,6 @@
-# 공부 정리
+# 공부 정리ing
 
-### 여태까지 배운것들 정리
+### 여태까지 배운것들 정리ing
 
 ### 1. [C01_Start](C01_Start.md)
 ### 2. [C02_DataType](Datatype.md)
@@ -21,3 +21,6 @@
 ### 17. [C17_Function](C17_Function.md)
 ### 18. [C18_Function2](C18_Function2)
 ### 19. [C19_Function3](C19_Function3)
+### 20. [C20_Structure](C20_Structure.md)
+### 21. [C21_Structure2](C21_Structure2.md)
+### 22. [C22_Reference](C22_Reference.md)
