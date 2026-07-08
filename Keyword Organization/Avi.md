@@ -2,11 +2,8 @@
 
 ## AVI란?
 
-<<<<<<< HEAD
 #### **AVI(Audio Video Interleave)는 Microsoft에서 개발한 멀티미디어 파일 포맷이다.**
-=======
-`**AVI(Audio Video Interleave)는 Microsoft에서 개발한 멀티미디어 파일 포맷이다.**`
->>>>>>> 707a11c22446f7300176da19c3afea4a9b6f0692
+
 > 영상과 오디오 데이터를 하나의 파일에 함께 저장할 수 있으며, 다양한 코덱(Codec)을 사용하여 동영상을 저장할 수 있다.
 > 확장자는 `.avi`를 사용한다.
 
