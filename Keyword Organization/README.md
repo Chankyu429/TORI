@@ -16,6 +16,8 @@
 #### 14. [TGA](TGA.md)
 #### 15. [PNG](PNG.md)
 #### 16. [WAV](Wav.md)
+#### 17. [AVI](Avi.md)
+#### 18. [PROCESS_2](PROCESS_2.md)
 
 ---
 

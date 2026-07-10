@@ -8,6 +8,10 @@ Process(프로세스)는 실행 중인 프로그램을 의미한다.
 
 ---
 
+![Process 이미지](../imags/Process_2.jpg)
+
+---
+
 ## Process의 특징
 
 - 실행 중인 프로그램이다.
