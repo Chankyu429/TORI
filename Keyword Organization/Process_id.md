@@ -2,7 +2,8 @@
 
 ## Process ID란?
 
-📢 Process ID(PID)는 PCB(Process Control Block)에 저장되는 정보 중 하나로, 각 프로세스를 구별하기 위해 운영체제가 부여하는 고유한 번호이다.
+📢 Process ID(PID)는 PCB(Process Control Block)에 저장되는 정보 중 하나로,
+   각 프로세스를 구별하기 위해 운영체제가 부여하는 고유한 번호이다.
 
 ---
 
