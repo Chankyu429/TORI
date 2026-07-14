@@ -1,29 +1,3 @@
-# Keyword Organization
-
-## C# 및 컴퓨터 구조 키워드
-
-- [CPU vs GPU](CPU_vs_GPU.md)
-- [Code Area](Code_Area.md)
-- [Compute Shader](Compute_Shader.md)
-- [CUDA](CUDA.md)
-- [Data Area](Data_Area.md)
-- [Process](Process.md)
-- [Process Memory Area](Process_Memory_Area.md)
-- [RAM vs VRAM](RAM_VRAM.md)
-
-## PCB 모음
-- [PCB](PCB.md)
-- [PCB-Process id](Process_id.md)
-
-## Process 모음
-
-### 1. [Process](Process.md)
-### 2. [Process Memory Area](Process_Memory_Area.md)
-### 3. [PROCESS_2](PROCESS_2.md)
-### 4. [Process_id](Process_id.md)
-
----
-
 # C# 키워드 정리
 
 #### 1. [CPU vs GPU](CPU_vs_GPU.md)
@@ -48,3 +22,16 @@
 #### 20. [PCB](PCB.md)
 #### 21. [TCB](TCB.md)
 #### 22. [Process_id](Process_id.md)
+
+---
+
+### C# 및 컴퓨터 구조 키워드
+
+- [CPU vs GPU](CPU_vs_GPU.md)
+- [Code Area](Code_Area.md)
+- [Compute Shader](Compute_Shader.md)
+- [CUDA](CUDA.md)
+- [Data Area](Data_Area.md)
+- [Process](Process.md)
+- [Process Memory Area](Process_Memory_Area.md)
+- [RAM vs VRAM](RAM_VRAM.md)
