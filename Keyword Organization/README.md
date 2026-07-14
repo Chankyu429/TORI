@@ -37,3 +37,9 @@
 - [Process](Process.md)
 - [Process Memory Area](Process_Memory_Area.md)
 - [RAM vs VRAM](RAM_VRAM.md)
+
+---
+
+# PCB
+- [PCB](PCB.md)
+- [PCB-Process id](Process_id.md)
