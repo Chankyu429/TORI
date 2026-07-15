@@ -6,7 +6,7 @@ Thread ID(TID)는 TCB(Thread Control Block)에 저장되는 정보 중 하나로
 
 ---
 
-![Thread_id 이미지](../imags/Thread_id.jpg)
+![Thread_id 이미지](../imags/TCB_Thread_id.jpg)
 
 ---
 
