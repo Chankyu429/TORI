@@ -22,6 +22,7 @@
 #### 20. [PCB](PCB.md)
 #### 21. [TCB](TCB.md)
 #### 22. [Process_id](Process_id.md)
+#### 23. [Thread_id](Thread_id.md)
 
 ---
 
