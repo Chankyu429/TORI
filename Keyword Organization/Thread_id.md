@@ -2,7 +2,7 @@
 
 ## Thread ID란?
 
-Thread ID(TID)는 TCB(Thread Control Block)에 저장되는 정보 중 하나로, 각 스레드를 구별하기 위해 운영체제가 부여하는 고유한 번호이다.
+> 💡Thread ID(TID)는 TCB(Thread Control Block)에 저장되는 정보 중 하나로, 각 스레드를 구별하기 위해 운영체제가 부여하는 고유한 번호이다.
 
 ---
 
