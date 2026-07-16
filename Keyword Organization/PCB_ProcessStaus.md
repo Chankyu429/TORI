@@ -8,6 +8,10 @@ Process Status는 PCB(Process Control Block)에 저장되는 정보 중 하나�
 
 ---
 
+![Thread_id 이미지](../imags/PCB_ProcessStaus.jpg)
+
+---
+
 ## Process Status의 특징
 
 - PCB에 저장된다.
@@ -24,10 +28,6 @@ Process Status는 PCB(Process Control Block)에 저장되는 정보 중 하나�
 - Running : 실행 중
 - Waiting : 입출력 등 이벤트 대기
 - Terminated : 실행 종료
-
----
-
-![Thread_id 이미지](../imags/PCB_ProcessStaus.jpg)
 
 ---
 
