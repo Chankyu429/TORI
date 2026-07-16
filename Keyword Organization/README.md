@@ -23,6 +23,7 @@
 #### 21. [TCB](TCB.md)
 #### 22. [Process_id](Process_id.md)
 #### 23. [Thread_id](Thread_id.md)
+#### 24. [PCB Process Staus](PCB_ProcessStaus.md)
 
 ---
 
