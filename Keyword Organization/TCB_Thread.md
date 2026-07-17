@@ -8,7 +8,7 @@ Thread Status는 TCB(Thread Control Block)에 저장되는 정보 중 하나로,
 
 ---
 
-![TCB_Thread 이미지](../imags/TCB_Thread Status.jpg)
+![TCB_Thread 이미지](../imags/TCB_Thread_Status.jpg)
 
 ---
 
