@@ -8,6 +8,10 @@ CPU는 Register를 이용하여 빠르게 데이터를 처리한다.
 
 ---
 
+![TCB_Thread 이미지](../imags/CPU_register.jpg)
+
+---
+
 ## CPU Register의 특징
 
 - CPU 내부에 위치한다.
