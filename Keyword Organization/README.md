@@ -27,6 +27,7 @@
 #### 25. [TCB Thread Status](TCB_Thread.md)
 #### 26. [CPU Register](CPU_Register.md)
 #### 27. [CPU Register_PC](CPU_Register_PC.md)
+#### 28. [PCB PC](PCB_PC.md)
 
 ---
 
