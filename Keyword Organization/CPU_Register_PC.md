@@ -8,7 +8,7 @@ CPU는 PC를 참조하여 프로그램을 순서대로 실행한다.
 
 ---
 
-![TCB_Thread 이미지](../imags/CPU_register_PC.jpg)
+![CPU Register 이미지](../imags/CPU_Register_PC.jpg)
 
 ---
 
