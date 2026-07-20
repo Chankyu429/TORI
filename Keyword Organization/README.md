@@ -24,6 +24,9 @@
 #### 22. [Process_id](Process_id.md)
 #### 23. [Thread_id](Thread_id.md)
 #### 24. [PCB Process Staus](PCB_ProcessStaus.md)
+#### 25. [TCB Thread Status](TCB_Thread.md)
+#### 26. [CPU Register](CPU_Register.md)
+#### 27. [CPU Register_PC](CPU_Register_PC(Program_COunter).md)
 
 ---
 
