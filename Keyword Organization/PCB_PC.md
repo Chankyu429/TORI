@@ -6,6 +6,10 @@ Program Counter(PC)는 PCB(Process Control Block)에 저장되는 정보 중 하
 
 ---
 
+![PCB-PC 이미지](../imags/PCB_PC.jpg)
+
+---
+
 ## Program Counter의 특징
 
 - PCB에 저장된다.
