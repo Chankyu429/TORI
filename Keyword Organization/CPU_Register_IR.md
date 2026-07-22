@@ -8,7 +8,7 @@ Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 
 
 ---
 
-![CPU Register IR 이미지](../imags/CPU_Register_IR)
+![CPU Register IR 이미지](../imags/CPU_Register_IR.jpg)
 
 ---
 
