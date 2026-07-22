@@ -2,9 +2,9 @@
 
 ## Instruction Register(IR)란?
 
-Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 명령어를 저장하는 레지스터이다.
-
-> CPU는 IR에 저장된 명령어를 해석하고 실행한다.
+> Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 명령어를 저장하는 레지스터이다.
+> 
+> 💡CPU는 IR에 저장된 명령어를 해석하고 실행한다.
 
 ---
 
@@ -40,4 +40,4 @@ Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 
 
 ## 결론
 
-Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 명령어를 저장하여 CPU가 명령어를 해석하고 실행할 수 있도록 하는 역할을 한다.
+> 💡Instruction Register(IR)는 CPU Register의 한 종류로, 현재 실행 중인 명령어를 저장하여 CPU가 명령어를 해석하고 실행할 수 있도록 하는 역할을 한다.
