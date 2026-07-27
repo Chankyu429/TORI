@@ -8,6 +8,10 @@ CPU는 MAR에 저장된 주소를 이용하여 메모리에서 데이터를 읽�
 
 ---
 
+![CPU Register MAR 이미지](../imags/CPU_Register_MAR.jpg)
+
+---
+
 ## Memory Address Register의 특징
 
 - CPU Register에 포함된다.
