@@ -6,6 +6,10 @@ Memory Buffer Register(MBR)는 CPU Register의 한 종류로, 메모리에서 �
 
 ---
 
+![CPU Register MAR 이미지](../imags/CPU_Register_MAR.jpg)
+
+---
+
 ## Memory Buffer Register의 특징
 
 - CPU Register에 포함된다.
