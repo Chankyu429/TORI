@@ -28,6 +28,12 @@
 #### 26. [CPU Register](CPU_Register.md)
 #### 27. [CPU Register_PC](CPU_Register_PC.md)
 #### 28. [PCB PC](PCB_PC.md)
+#### 29. [CPU Register IR](CPU_Register_IR.md)
+#### 30. [CPU Register MAR](CPU_Register(MAR).md)
+#### 31. [CPU Register MBR](CPU_Register(MBR).md)
+#### 32. [CPU Register GPR](CPU_Register(GPR).md)
+#### 33. [CPU Register AC](CPU_Register(AC).md)
+#### 34. [CPU Register Flag](CPU_Register_Flag.md)
 
 ---
 
