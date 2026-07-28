@@ -6,7 +6,7 @@ General Purpose Register(GPR)는 CPU Register의 한 종류로, 연산에 필요
 
 ---
 
-![CPU Register GPR 이미지](../imags/CPU_Register_GPR.jpg)
+![CPU Register GPR 이미지](../../imags/CPU_Register_GPR.jpg)
 
 ---
 
