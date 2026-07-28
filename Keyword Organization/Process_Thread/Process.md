@@ -10,7 +10,7 @@
 
 ---
 
-![Process 이미지](../imags/Process.jpg)
+![Process 이미지](../../imags/Process.jpg)
 
 ---
 
