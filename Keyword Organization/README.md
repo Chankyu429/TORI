@@ -37,6 +37,10 @@
 
 ---
 
+### [REDAME](Keyword%200rganization/Register/REDAME.md)
+
+---
+
 ### C# 및 컴퓨터 구조 키워드
 
 - [CPU vs GPU](CPU_vs_GPU.md)
