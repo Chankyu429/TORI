@@ -1,3 +1,8 @@
+# Register 모음
+## [Register](Register/README.md)
+
+---
+
 # C# 키워드 정리
 
 #### 1. [CPU vs GPU](CPU_vs_GPU.md)
@@ -26,10 +31,6 @@
 #### 24. [PCB Process Staus](PCB_ProcessStaus.md)
 #### 25. [TCB Thread Status](TCB_Thread.md)
 #### 26. [PCB PC](PCB_PC.md)
-
----
-
-## [Register](Register/README.md)
 
 ---
 
