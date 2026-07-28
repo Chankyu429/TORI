@@ -6,7 +6,7 @@
 
 ---
 
-![Thread_id 이미지](../imags/TCB_Thread_id.jpg)
+![Thread_id 이미지](../../imags/TCB_Thread_id.jpg)
 
 ---
 
