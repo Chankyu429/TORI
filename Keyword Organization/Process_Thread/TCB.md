@@ -8,7 +8,7 @@ TCB(Thread Control Block)는 운영체제가 스레드를 관리하기 위해 �
 
 ---
 
-![TCB 이미지](../imags/TCB.jpg)
+![TCB 이미지](../../imags/TCB.jpg)
 
 ---
 
