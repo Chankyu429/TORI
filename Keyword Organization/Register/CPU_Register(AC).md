@@ -6,7 +6,7 @@ Accumulator(AC)는 CPU Register의 한 종류로, 연산 과정에서 발생하�
 
 ---
 
-![CPU Register AC 이미지](../imags/CPU_Register_AC.jpg)
+![CPU Register AC 이미지](../../imags/CPU_Register_AC.jpg)
 
 ---
 
