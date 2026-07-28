@@ -9,7 +9,7 @@
 
 ---
 
-![AVI 이미지](../imags/Avi.jpg)
+![AVI 이미지](../../imags/Avi.jpg)
 
 ---
 
