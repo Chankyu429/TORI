@@ -8,7 +8,7 @@ PCB(Process Control Block)는 운영체제가 프로세스를 관리하기 위�
 
 ---
 
-![PCB 이미지](../imags/PCB.jpg)
+![PCB 이미지](../../imags/PCB.jpg)
 
 ---
 
