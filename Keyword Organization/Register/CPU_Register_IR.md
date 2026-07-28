@@ -8,7 +8,7 @@
 
 ---
 
-![CPU Register IR 이미지](../imags/CPU_Register_IR.jpg)
+![CPU Register IR 이미지](../../imags/CPU_Register_IR.jpg)
 
 ---
 
