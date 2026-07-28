@@ -8,7 +8,7 @@ Process Status는 PCB(Process Control Block)에 저장되는 정보 중 하나�
 
 ---
 
-![Thread_id 이미지](../imags/PCB_ProcessStaus.jpg)
+![Thread_id 이미지](../../imags/PCB_ProcessStaus.jpg)
 
 ---
 
