@@ -8,7 +8,7 @@ CPU는 Flag Register의 값을 확인하여 조건문이나 분기 명령을 수
 
 ---
 
-![CPU Register Flag 이미지](../imags/CPU_Register_Flag.jpg)
+![CPU Register Flag 이미지](../../imags/CPU_Register_Flag.jpg)
 
 ---
 
