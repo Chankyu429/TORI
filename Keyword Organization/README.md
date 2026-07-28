@@ -1,10 +1,10 @@
 # C# 키워드 정리
 
-### [Register](Register/README.md)
-### [Process Thread](Process_Thread/README.md)
-### [Process Memory](Process_Memory/README.md)
-### [Hardware Compute](Hardware_Compute/README.md)
-### [File Format](File_Format/README.md)
+### 1. [Register](Register/README.md)
+### 2. [Process Thread](Process_Thread/README.md)
+### 3. [Process Memory](Process_Memory/README.md)
+### 4. [Hardware Compute](Hardware_Compute/README.md)
+### 5. [File Format](File_Format/README.md)
 ---
 
 ### C# 및 컴퓨터 구조 키워드
