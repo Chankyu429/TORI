@@ -7,7 +7,7 @@
 
 ---
 
-![Process vs Thread 이미지](../imags/Process_vs_Thread.jpg)
+![Process vs Thread 이미지](../../imags/Process_vs_Thread.jpg)
 
 ---
 
