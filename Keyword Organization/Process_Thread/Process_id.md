@@ -7,7 +7,7 @@
 
 ---
 
-![Process_id 이미지](../imags/Process_id.jpg)
+![Process_id 이미지](../../imags/Process_id.jpg)
 
 ---
 
