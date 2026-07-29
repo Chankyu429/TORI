@@ -286,3 +286,22 @@ HP : 120, MP : 50, 공격력 : 20, 방어력 : 3
 - 5개의 몬스터 저장 파일 : MonsterData.csv
 - CSV 형식으로 저장
 - 전투 시작 직전에 몬스터 파일 불러오기
+
+---
+
+## 07.29 | 정리
+
+- static (공용 영역을 사용, (함수는 Data에 바로 지정, 변수는 BSS에 설계도만 먼저 저장하고 사용을 하게되면 Data 구역에 그제서야 생성함)
+
+### 기억하기
+```csharp
+public static void PrintCount()
+{
+    //Console.WriteLine($"Monster Static : {number}, {count}"); //number은 static이 아니므로 접근 불가
+    Console.WriteLine($"Monster Static : {count}");
+
+    //Print(); Print()는 static이 아니므로 접근 불가
+
+    PrintStatic();
+}
+```
