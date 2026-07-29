@@ -1,6 +1,6 @@
 # Chankyu429
 
-## List
+# List
 
 ### [C# 키워드 정리](Keyword%20Organization/README.md)
 ### [organizing my studies](Study/README.md)
