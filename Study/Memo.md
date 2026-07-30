@@ -334,3 +334,8 @@ public static void PrintCount()
 > 상수 - 초기화 이후 값 대입 불가
 > 
 > ``public readonly int MaxSize2;`` 읽기 전용 - 최소 값 세팅 이후 값 대입 불가
+```csharp
+Console.WriteLine("스텍이 비워져 있음.");
+return default(DataType)!; //기본 값 돌려주는 거
+Debug.Assert(false, "스텍이 비워져 있음."); //오류 나는 걸 방지하여 확인하는 데 쓰임.
+```
