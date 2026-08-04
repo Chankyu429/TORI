@@ -286,3 +286,56 @@ HP : 120, MP : 50, 공격력 : 20, 방어력 : 3
 - 5개의 몬스터 저장 파일 : MonsterData.csv
 - CSV 형식으로 저장
 - 전투 시작 직전에 몬스터 파일 불러오기
+
+---
+
+## 07.29 | 정리
+
+- ``static`` (공용 영역을 사용, (함수는 Data에 바로 지정, 변수는 BSS에 설계도만 먼저 저장하고 사용을 하게되면 Data 구역에 그제서야 생성함)
+
+### ‼️기억하기‼️
+```csharp
+public static void PrintCount()
+{
+    //Console.WriteLine($"Monster Static : {number}, {count}"); //number은 static이 아니므로 접근 불가
+    Console.WriteLine($"Monster Static : {count}");
+
+    //Print(); Print()는 static이 아니므로 접근 불가
+
+    PrintStatic();
+}
+```
+
+---
+
+## 07.30 | Memo
+
+### 자료구조
+- 선형 (배열, 리스트, 연결 리스트, Stack, 큐)
+- 비선형 (트리, 그래프)
+
+### Stack
+- 밀어넣는다 해서 Push, 당길땐 pop
+- TOP (top of point) > -1 에 위치함 (push 하면 한칸 올라옴 ++TOP 거기에 하나 넣는거) +와 숫자 증가 TOP 먼저 증가
+	- 사이즈가 3이면 2까지만 추가 가능
+	- 들어갈수 있는지 확인하기 위해 TOP 먼저 증가
+	- 뺄때는 먼저 빠지고 TOP가 나중에 빠짐 그래서 ex) top -- 2 | 그래서 다시 -1로 돌아옴
+	- -1에서 더 빼려고 하면 underflow, 꽉찼는데 넣을라고 하면 overflow
+- 들어갈땐 A - b - c, 나올땐 c - b - A
+- 큐 (Stack에 가로형)
+
+
+> 파스칼 표기법 (앞을 다 대문자로 하는 것)
+> 
+> 처음 시작 글자가 카멜 표기법
+> 
+> const = 상수 (초기화 시에만 값을 넣어줄수 있음)
+> 
+> 상수 - 초기화 이후 값 대입 불가
+> 
+> ``public readonly int MaxSize2;`` 읽기 전용 - 최소 값 세팅 이후 값 대입 불가
+```csharp
+Console.WriteLine("스텍이 비워져 있음.");
+return default(DataType)!; //기본 값 돌려주는 거
+Debug.Assert(false, "스텍이 비워져 있음."); //오류 나는 걸 방지하여 확인하는 데 쓰임.
+```
