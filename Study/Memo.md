@@ -339,3 +339,11 @@ Console.WriteLine("스텍이 비워져 있음.");
 return default(DataType)!; //기본 값 돌려주는 거
 Debug.Assert(false, "스텍이 비워져 있음."); //오류 나는 걸 방지하여 확인하는 데 쓰임.
 ```
+
+---
+
+## 08.04 | Memo
+### 가장 피해야 하는 구조
+
+- A is a B 상속 구조 ( A == B )
+- A 해즈 a B <- 가장 피해야 될 구조
