@@ -396,4 +396,5 @@ int e = func(10);
 Console.WriteLine($"Case3 - Square3 : {e}");
 ```
 -> 얘도 위와 같이 같은 공간 안에 존재하기 때문에 같은 공간 안에 위치함.
-	-> Reference이기 때문에 같은 공간임.
+
+-> Reference이기 때문에 같은 공간임.
