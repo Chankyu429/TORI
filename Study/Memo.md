@@ -347,3 +347,52 @@ Debug.Assert(false, "스텍이 비워져 있음."); //오류 나는 걸 방지�
 
 - A is a B 상속 구조 ( A == B )
 - A 해즈 a B <- 가장 피해야 될 구조
+
+---
+
+## 08.05 | Memo
+
+``Test``익명 매서드 
+```csharp
+(ex) void Test (int a, string b)
+```
+#### 람다식, 람다문
+```csharp
+Action<int, string>
+	 (int a, string b)
+	 Delegate 자류형으로 인식을 함.
+Action<string> action = (str) => Console.WriteLine($"Case2 : {str}"); //중괄호가 없는 경우가 람다식
+```
+-> 얘는 실행만 하고 끝남
+```csharp
+func = (a, b) => $"Case2 : {a}, {b}"; //람다식 (리턴 모양)
+```
+-> 리턴해서 돌아옴
+``=>`` 이 기호가 포함되어 있으면 다 람다임
+
+```csharp
+public void Case3()
+{
+    int Square2(int x)
+    {
+        return x * x;
+    }
+
+    int a = 10;
+    int b = Square(a); //Call by Value
+    int c = Square2(a); //Call by Value
+
+    Console.WriteLine($"Case3 - Square : {b}, Square2 : {c}");
+```
+-> 같이 중괄호 안에 있기 때문에 a와 x는 같은 공간을 사용함.
+```csharp
++ int d = 20;
+int Square3(int x)
+{
+    return d + x; //d - Reference
+}
+Func<int, int> func = Square3;
+int e = func(10);
+Console.WriteLine($"Case3 - Square3 : {e}");
+```
+-> 얘도 위와 같이 같은 공간 안에 존재하기 때문에 같은 공간 안에 위치함.
