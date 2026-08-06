@@ -6,6 +6,10 @@
 
 ---
 
+![CPU Register_SP 이미지](../../imags/CPU_Acc.jpg)
+
+---
+
 ## 누산기의 특징
 
 - CPU 연산장치(ALU)에 포함된다.
