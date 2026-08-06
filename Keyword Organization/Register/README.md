@@ -9,4 +9,4 @@
 ### 7. [CPU Register IR](CPU_Register_IR.md)
 ### 8. [CPU Register PC](CPU_Register_PC.md)
 ### 9. [CPU Register SP](CPU_SP.md)
-### 10. [CPU_Accumulator](CPU_Acc.md)
+### 10. [CPU 연산장치 (Accumulator)](CPU_Acc.md)
