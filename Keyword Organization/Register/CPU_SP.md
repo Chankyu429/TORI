@@ -8,6 +8,10 @@ Stack Pointer(SP)는 CPU Register의 한 종류로, 현재 스택(Stack)의 최�
 
 ---
 
+![CPU Register_SP 이미지](../../imags/CPU_Acc.jpg)
+
+---
+
 ## Stack Pointer의 특징
 
 - CPU Register에 포함된다.
