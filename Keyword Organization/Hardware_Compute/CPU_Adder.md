@@ -6,6 +6,10 @@
 
 ---
 
+![CPU Register 이미지](../../imags/CPU_Adder.jpg)
+
+---
+
 ## 가산기의 특징
 
 - CPU 연산장치(ALU)에 포함된다.
